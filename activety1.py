@@ -1,0 +1,5 @@
+print("hello whats your name")
+print (8)
+print(" ok \n thats a cool name") 
+print (" a,",3)
+print(" look theres a tiger there",end="9")
